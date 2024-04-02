@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="">Hi 👋</h1> 
+
+### Stats about me
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreatG57&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatG57&layout=compact&show_icons=true&theme=radical)
+
+
+
+
 
 <!--
 **GreatG57/GreatG57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
